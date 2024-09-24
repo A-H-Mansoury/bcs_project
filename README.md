@@ -7,16 +7,16 @@ This project explores the use of deep reinforcement learning to control the moti
 Here are the final simulation GIFs demonstrating the robot's performance on different surfaces:
 
 - **Plain Surface Simulation**  
-  ![Plain Surface Simulation](./assets/Final_Plain.gif)
+  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Plain.gif)
 
 - **Ramp Surface Simulation**  
-  ![Ramp Surface Simulation](./assets/Final_Ramp.gif)
+  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Ramp.gif)
 
 - **Rocky Surface Simulation**  
-  ![Rocky Surface Simulation](./assets/Final_Rocky.gif)
+  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Rocky.gif)
 
 - **Stairs Simulation**  
-  ![Stairs Simulation](./assets/Final_Stairs.gif)
+  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Stairs.gif)
 
 ## Installation
 1. Clone the repository:
