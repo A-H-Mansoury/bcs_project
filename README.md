@@ -25,7 +25,7 @@ Here are the final simulation GIFs demonstrating the robot's performance on diff
     ```
 2. Upload the Jupyter notebooks (`*.ipynb`) to [Kaggle](https://www.kaggle.com/) or [Google Colab](https://colab.research.google.com/).
 3. Ensure that the runtime environment is set to **GPU** and that **internet access** is enabled.
-4. Open the uploaded notebooks and run them in the selected environment.
+4. Open the uploaded notebooks and run them.
 
 ## License
 This project is licensed under the MIT License.
