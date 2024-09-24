@@ -1,22 +1,26 @@
 # Control of Humanoid Robot Motion on Uneven Surfaces using Deep Reinforcement Learning
 
 This project explores the use of deep reinforcement learning to control the motion of humanoid robots on uneven surfaces, enabling them to adapt dynamically while maintaining balance and fluid motion.
-
 ## Final Simulations
 
 Here are the final simulation GIFs demonstrating the robot's performance on different surfaces:
 
-- **Plain Surface Simulation**  
-  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Plain.gif)
+<table>
+  <tr>
+    <td><strong>Plain Surface Simulation</strong></td>
+    <td><strong>Ramp Surface Simulation</strong></td>
+    <td><strong>Rocky Surface Simulation</strong></td>
+    <td><strong>Stairs Simulation</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Plain.gif" width="200" height="200"></td>
+    <td><img src="https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Ramp.gif" width="200" height="200"></td>
+    <td><img src="https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Rocky.gif" width="200" height="200"></td>
+    <td><img src="https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Stairs.gif" width="200" height="200"></td>
+  </tr>
+</table>
 
-- **Ramp Surface Simulation**  
-  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Ramp.gif)
 
-- **Rocky Surface Simulation**  
-  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Rocky.gif)
-
-- **Stairs Simulation**  
-  ![](https://github.com/A-H-Mansoury/bcs_project/blob/main/assets/Final_Stairs.gif)
 
 ## Installation
 1. Clone the repository:
